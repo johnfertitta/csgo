@@ -26,6 +26,8 @@ Video settings are optimzed for visibility, not FPS. I lock my FPS at 160 (monit
 
 * Set fps_max 140 (for 144 Hz monitors, if you have 165 Hz, use 160. Just make sure you set the number approx. 4-5 frames lower than your refresh-rate)
 
+Additionally I use [VibranceGui](https://vibrancegui.com/) to automatically set my vibrance level in nVida countrol panel to 75%
+
 # Nade Practice #
 
 The nade practice config is to help use nades, it removes all bots, binds "n" to noclip, binds "p" to give nades. Use by typing "exec nadepractice" into the console

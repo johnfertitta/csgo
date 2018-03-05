@@ -9,7 +9,7 @@ Putting these files on git hub was inspired by https://github.com/samersultan/cs
 # Launch options: #
 
 ```
--novid -high -threads 6 -nojoy +cl_forcepreload 1 -nod3d9ex
+-novid -nojoy +cl_forcepreload 1 -nod3d9ex -freq 165 +mat_queue_mode 2
 ```
 
 # Video settings: #

@@ -16,7 +16,7 @@ Putting these files on git hub was inspired by https://github.com/samersultan/cs
 
 ![Screen shot of video settings](/video_settings.jpg?raw=true)
 
-Video settings are optimzed for visibility, not FPS. I lock my FPS at 160 (monitor hz - 5) and use gsync. To set gysnc up input lag free do the following ([Source](https://www.reddit.com/r/GlobalOffensive/comments/5iv35q/how_to_use_gsync_properly_in_csgo/)):
+Video settings are optimzed for visibility, not FPS. I lock my FPS at 162 (monitor hz - 3) and use gsync. To set gysnc up input lag free do the following ([Source](https://www.reddit.com/r/nvidia/comments/5e40o3/nvidia_gsync_lag_analysis_tldw_no_additional/)):
 
 * Enable G-Sync in the Nvidia Control Panel (obviously)
 
@@ -24,7 +24,7 @@ Video settings are optimzed for visibility, not FPS. I lock my FPS at 160 (monit
 
 * In CS:GO disable V-Sync in the video settings
 
-* Set fps_max 140 (for 144 Hz monitors, if you have 165 Hz, use 160. Just make sure you set the number approx. 4-5 frames lower than your refresh-rate)
+* Set fps_max 142 (for 144 Hz monitors, if you have 165 Hz, use 162. Just make sure you set the number approx. 3-5 frames lower than your refresh-rate)
 
 Additionally I use [VibranceGui](https://vibrancegui.com/) to automatically set my vibrance level in nVida countrol panel to 75%
 

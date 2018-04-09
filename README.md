@@ -32,6 +32,10 @@ Additionally I use [VibranceGui](https://vibrancegui.com/) to automatically set 
 
 The nade practice config is to help use nades, it removes all bots, binds "n" to noclip, binds "p" to give nades. Use by typing "exec nadepractice" into the console
 
+# Nade Script
+
+nadescript.cfg executes the [nadetraining script](/scripts/vscripts/nadetraining.nut), it allows you to save nades so all others will follow the same path. Useful for pop flash training. Credit: https://github.com/s-ol/csgo-vscripts
+
 # Specs #
 
 * AMD - Ryzen 7 1700 @ 3.75 ghz

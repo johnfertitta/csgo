@@ -1,0 +1,3 @@
+[submodule "csgo-vscripts"]
+	path = csgo-vscripts
+	url = https://github.com/s-ol/csgo-vscripts

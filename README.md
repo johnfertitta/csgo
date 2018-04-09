@@ -34,7 +34,8 @@ The nade practice config is to help use nades, it removes all bots, binds "n" to
 
 # Nade Script
 
-nadescript.cfg executes the [nadetraining script](/scripts/vscripts/nadetraining.nut), it allows you to save nades so all others will follow the same path. Useful for pop flash training. Credit: https://github.com/s-ol/csgo-vscripts
+nadescript.cfg executes the [nadetraining script](https://github.com/s-ol/csgo-vscripts), it allows you to save nades so all others will follow the same path. Useful for pop flash training. 
+To use this place nadetraining.nut in your scripts/vscripts directory
 
 # Specs #
 

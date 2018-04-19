@@ -18,27 +18,27 @@ Putting these files on git hub was inspired by https://github.com/samersultan/cs
 
 NVIDIA Control panel settings:
 
-Ambient Occlusion - Off
-Anisotropic filtering - Off
-Antialiasing Gamma Correction - Off
-Antialiasing Mode - Application Controlled
-Antialiasing Transparency - Off
-CUDA GPUs - ALl
-Maximum pre-rendered frames - 1
-Monitor Technology - Fixed Refresh
-Multi-Frame Sampled AA (MFAA) - Off
-OpenGL rendering GPU - Auto-select
-Power management mode - Prefer maximum performance
-Preferred refresh rate - Application controlled
-Shader Cache - On
-Texture filtering Anisotropic sample optimzation - On
-Texture filtering Negative LOD bias - Clamp
-Texture filtering Quality - High performance
-Texture filtering Trilinear optimization - ON
-Threaded optimization - On
-Triple buffering - Off
-Vertical sync - Off
-Virtual Reality pre-rendered frames - 1
+ * Ambient Occlusion - Off
+ * Anisotropic filtering - Off
+ * Antialiasing Gamma Correction - Off
+ * Antialiasing Mode - Application Controlled
+ * Antialiasing Transparency - Off
+ * CUDA GPUs - ALl
+ * Maximum pre-rendered frames - 1
+ * Monitor Technology - Fixed Refresh
+ * Multi-Frame Sampled AA (MFAA) - Off
+ * OpenGL rendering GPU - Auto-select
+ * Power management mode - Prefer maximum performance
+ * Preferred refresh rate - Application controlled
+ * Shader Cache - On
+ * Texture filtering Anisotropic sample optimzation - On
+ * Texture filtering Negative LOD bias - Clamp
+ * Texture filtering Quality - High performance
+ * Texture filtering Trilinear optimization - ON
+ * Threaded optimization - On
+ * Triple buffering - Off
+ * Vertical sync - Off
+ * Virtual Reality pre-rendered frames - 1
 
 Additionally I use [VibranceGui](https://vibrancegui.com/) to automatically set my vibrance level in nVida countrol panel to 75%
 

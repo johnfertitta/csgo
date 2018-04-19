@@ -9,22 +9,36 @@ Putting these files on git hub was inspired by https://github.com/samersultan/cs
 # Launch options: #
 
 ```
--novid -nojoy +cl_forcepreload 1 -nod3d9ex -freq 165 +mat_queue_mode 2
+-novid
 ```
 
 # Video settings: #
 
 ![Screen shot of video settings](/video_settings.jpg?raw=true)
 
-Video settings are optimzed for visibility, not FPS. I lock my FPS at 162 (monitor hz - 3) and use gsync. To set gysnc up input lag free do the following ([Source](https://www.reddit.com/r/nvidia/comments/5e40o3/nvidia_gsync_lag_analysis_tldw_no_additional/)):
+NVIDIA Control panel settings:
 
-* Enable G-Sync in the Nvidia Control Panel (obviously)
-
-* In the same Nvidia Control Panel, navigate to 3D-Settings and set V-Sync to ON. You can do this either globally or for CS:GO only (don't be fooled by the common "V-Sync = bad" term. It will only cap the FPS to your monitors max refresh rate, and this will also remove pretty much every microstutter in game!)
-
-* In CS:GO disable V-Sync in the video settings
-
-* Set fps_max 142 (for 144 Hz monitors, if you have 165 Hz, use 162. Just make sure you set the number approx. 3-5 frames lower than your refresh-rate)
+Ambient Occlusion - Off
+Anisotropic filtering - Off
+Antialiasing Gamma Correction - Off
+Antialiasing Mode - Application Controlled
+Antialiasing Transparency - Off
+CUDA GPUs - ALl
+Maximum pre-rendered frames - 1
+Monitor Technology - Fixed Refresh
+Multi-Frame Sampled AA (MFAA) - Off
+OpenGL rendering GPU - Auto-select
+Power management mode - Prefer maximum performance
+Preferred refresh rate - Application controlled
+Shader Cache - On
+Texture filtering Anisotropic sample optimzation - On
+Texture filtering Negative LOD bias - Clamp
+Texture filtering Quality - High performance
+Texture filtering Trilinear optimization - ON
+Threaded optimization - On
+Triple buffering - Off
+Vertical sync - Off
+Virtual Reality pre-rendered frames - 1
 
 Additionally I use [VibranceGui](https://vibrancegui.com/) to automatically set my vibrance level in nVida countrol panel to 75%
 

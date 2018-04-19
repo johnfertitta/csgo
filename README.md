@@ -23,7 +23,7 @@ NVIDIA Control panel settings:
  * Antialiasing Gamma Correction - Off
  * Antialiasing Mode - Application Controlled
  * Antialiasing Transparency - Off
- * CUDA GPUs - ALl
+ * CUDA GPUs - ALL
  * Maximum pre-rendered frames - 1
  * Monitor Technology - Fixed Refresh
  * Multi-Frame Sampled AA (MFAA) - Off

@@ -54,17 +54,18 @@ To use this place nadetraining.nut in your scripts/vscripts directory
 # Specs #
 
 * AMD - Ryzen 7 1700 @ 3.75 ghz
-* EVGA - GeForce GTX 1080 Ti 11GB SC2 Video Card
+* EVGA - GeForce GTX 1080 Ti 11GB SC2
 * ASUS - Crosshair VI Hero WIFI
 * G.Skill - Ripjaws V Series 16GB (2 x 8GB) DDR4-3200 Memory @ 3200 mhz
-* Samsung - 960 EVO 250GB M.2-2280 Solid State Drive
-* Samsung - 850 EVO-Series 500GB 2.5" Solid State Drive
+* Samsung - 960 EVO 250GB M.2-2280 SSD
+* Samsung - 850 EVO-Series 500GB 2.5" SSD
+* Micron 1TB SSD
 * Corsair - RM 750W 80+ Gold Certified Fully-Modular ATX Power Supply
 * Asus - PG279Q ROG Swift 27.0" 2560x1440 165Hz Monitor
-* Razer - BlackWidow Tournament Edition Chroma Wired Gaming Keyboard
-* SteelSeries - Rival 300 Wired Optical Mouse
+* Steelseries Apex m750 TKL
+* SteelSeries - Rival 600
 * Schiit - Modi 2 External DAC
 * Schiit - Magni 2 Amplifier
-* Sennheiser - HD6XX Headphones
+* Beyerdynamic DT 990 600 Ohm Headphones
 * Blue - Yeti Black Microphone
 * Logitech - G840 Mousepad
